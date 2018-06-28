@@ -36,7 +36,7 @@
 		<module>daytrader3-ee6-rest</module>
 		<module>daytrader3-ee6-web</module>
 		<module>daytrader3-ee6</module>
-        <module>daytrader3-ee6-wlpcfg</module>
+        <!--module>daytrader3-ee6-wlpcfg</module-->
     </modules>
 
 </project>
